@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XDVYrWnPOQqDHYOSjA950g1l7URfhFWBS8LKOoFtwhI=",
+  "Source": "MeowLab",
+  "BasePath": "_content/MeowLab",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeowLab\\wwwroot",
+      "Source": "MeowLab",
+      "ContentRoot": "D:\\lab7bek\\MeowLaboshka\\MeowLab\\wwwroot\\",
+      "BasePath": "_content/MeowLab",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\lab7bek\\MeowLaboshka\\MeowLab\\wwwroot\\index.html",
+      "SourceId": "MeowLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab7bek\\MeowLaboshka\\MeowLab\\wwwroot\\",
+      "BasePath": "_content/MeowLab",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
